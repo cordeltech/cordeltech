@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/G6xDxTS.png" />
 <h1 align="center">coRdeL Technology</h1>
-<h3 align="center">Writing code is like writing a poem</h3>
+<h3 align="center">code is like writing a poem</h3>
 
 - 🔭 I’m currently working on [Breaking News App](https://github.com/codethi/breaking-news)
 
